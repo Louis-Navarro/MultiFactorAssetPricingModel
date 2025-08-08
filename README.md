@@ -1,6 +1,14 @@
 # Multi Factor Capital Asset Pricing Modelling (MF-CAPM)
 
-## Introduction
+## Table of Contents## Introduction
+
+1. [Introduction](#introduction)
+2. [Price Modelling](#price-modelling)
+   - [Traditional CAPM](#traditional-capm)
+   - [CAPM With Alpha](#capm-with-alpha)
+   - [Multi Factor Capital Asset Pricing Modelling](#multi-factor-capital-asset-pricing-modelling)
+3. [Experiment](#experiment)
+4. [Results](#results)
 
 In this repository, we explore an extension of the Capital Asset Price Model (CAPM) that link the returns of an asset to multiple factors.
 
